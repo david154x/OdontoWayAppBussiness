@@ -7,5 +7,7 @@ import com.drr.odontoway.core.dto.MenuDTO;
 public interface MenuService {
 	
 	List<MenuDTO> consultarMenuXUsuario(Integer idUsuario);
+	
+	String ubicacionMenu(Integer idMenu);
 
 }

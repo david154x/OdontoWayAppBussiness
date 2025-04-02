@@ -17,9 +17,13 @@ public class MenuDTO {
 	
 	private String rutaUrl;
 	
+	private String nombreDocumento;
+	
 	private String iconoMenu;
 	
-	private Integer menuPadre;
+	private Integer moduloMenu;
+	
+	private Integer subMenu;
 	
 	private String idEstado;
 
