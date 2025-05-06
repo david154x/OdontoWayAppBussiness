@@ -25,6 +25,10 @@ public class MenuDTO {
 	
 	private Integer subMenu;
 	
+	private String nombreClaseView;
+	
+	private Integer numeroItem;
+	
 	private String idEstado;
 
 }
